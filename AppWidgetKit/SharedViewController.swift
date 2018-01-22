@@ -13,6 +13,7 @@ open class SharedViewController: UIViewController {
     override open func viewDidLoad() {
         super.viewDidLoad()
         print("shared view controller")
+        print("prova")
         // Do any additional setup after loading the view.
     }
     
