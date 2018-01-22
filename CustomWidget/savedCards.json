@@ -1,0 +1,33 @@
+{
+"cards": [{
+"idCard": 1,
+"cardName": "Test1",
+"brandName": "Esselunga",
+"brandImage": "logo1.png"
+},
+{
+"idCard": 2,
+"cardName": "Test2",
+"brandName": "Carrefour",
+"brandImage": "logo2.jpg"
+},
+{
+"idCard": 3,
+"cardName": "Test3",
+"brandName": "Coop",
+"brandImage": "logo3.jpg"
+},
+{
+"idCard": 4,
+"cardName": "Test4",
+"brandName": "Carpisa",
+"brandImage": "logo4.png"
+},
+{
+"idCard": 5,
+"cardName": "Test5",
+"brandName": "Guess",
+"brandImage": "logo5.jpg"
+}
+]
+}
